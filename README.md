@@ -1,7 +1,7 @@
 # SearchingMovies
 
 <p align="center">
-  <img src="/Report/Report-01.jpg" width="1656"/>
+  <img src="/Report/Report-1.jpg" width="1656"/>
   <img src="/Report/Report-02.jpg" width="1656"/>
   <img src="/Report/Report-03.jpg" width="1656"/>
   <img src="/Report/Report-04.jpg" width="1656"/>
